@@ -213,7 +213,6 @@
           </extraProtocols>
 
           <bootFeatures>
-            <feature>config</feature>
             <feature>pentaho-client-minimal</feature>
           </bootFeatures>
           <installedFeatures>
