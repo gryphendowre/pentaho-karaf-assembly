@@ -6,7 +6,7 @@
   <parent>
     <groupId>org.hitachivantara.karaf</groupId>
     <artifactId>karaf-assembly</artifactId>
-    <version>9.0.0.0-SNAPSHOT</version>
+    <version>9.0.0.0-100</version>
   </parent>
 
   <artifactId>karaf-assembly-client</artifactId>
